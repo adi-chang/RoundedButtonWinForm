@@ -60,6 +60,12 @@
     <Compile Include="RoundedButton.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="RoundedButton2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RoundedButton3.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
